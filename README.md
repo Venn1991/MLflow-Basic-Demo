@@ -4,9 +4,9 @@
 
 ## For Dagshub:
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Basic-Demo.mlflow \
-MLFLOW_TRACKING_USERNAME=entbappy \
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
+MLFLOW_TRACKING_URI= /dagshub.com/Venn1991/my-first-repo.mlflow\
+MLFLOW_TRACKING_USERNAME=Venn1991 \
+MLFLOW_TRACKING_PASSWORD=3282241ccf8eee626e8fca3ed2b4b4a72cb512b0 \
 python script.py
 
 
